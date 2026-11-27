@@ -2,7 +2,7 @@
 
 **Full Stack Developer** in Istanbul. I build web products that are in production with Next.js, TypeScript and PostgreSQL, and I own them end to end: design summary, data model, migration, security review and release.
 
-Website: [cansinyrkl.vercel.app](https://cansinyrkl.vercel.app/en) (TR / EN / JA)
+Website: [cansinyrkl.vercel.app](https://cansinyrkl.vercel.app) (TR / EN / JA)
 
 ## What I work on
 
@@ -41,5 +41,5 @@ Open to mid-level full stack or frontend roles: on-site, hybrid or remote in Tur
 
 ## Links
 
-- Website: [cansinyrkl.vercel.app](https://cansinyrkl.vercel.app/en)
+- Website: [cansinyrkl.vercel.app](https://cansinyrkl.vercel.app)
 - LinkedIn: [linkedin.com/in/canyrkl](https://www.linkedin.com/in/canyrkl)
